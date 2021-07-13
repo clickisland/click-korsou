@@ -1,0 +1,26 @@
+{
+  "name": "click-korsou",
+  "version": "1.0.0",
+  "description": "Click Island Website",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clickisland/click-korsou.git"
+  },
+  "keywords": [
+    "REACTJS",
+    "NODE",
+    "EXPRESS",
+    "MONGO",
+    "WEBPACK"
+  ],
+  "author": "Isaac Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clickisland/click-korsou/issues"
+  },
+  "homepage": "https://github.com/clickisland/click-korsou#readme"
+}
